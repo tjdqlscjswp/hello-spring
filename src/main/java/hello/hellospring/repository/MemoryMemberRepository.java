@@ -1,8 +1,11 @@
 package hello.hellospring.repository;
 
 import hello.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
+
+// 컨트롤러 서비스 [리포지터리 (데이터 저장)] 정형화된 패턴
 
 public class MemoryMemberRepository implements MemberRepository{
 
