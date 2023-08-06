@@ -12,6 +12,9 @@ Today I learned about testing code with jUnit.
 3. Using Window shortcut(Try to practice other keymap)
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 2023-07-18
 1. Continueing practice DI in Spring Boot
 3 Ways of DI.
@@ -31,3 +34,12 @@ So the problem is that it is possible to generate as much object as I want witho
 3) Constructor Injection
 Put Autowired annotation infront of the Constructor.
 Is is a recommended way. This is because it can be forced not to create an instance without a dependency that must be used.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2023-07-20
+1. Review of Web MVC sturcture
+   I'm using jsp in my office. jsp - controller - service - mapper(mybatis) - database. So Im now reviewing the basic pattern of MVC model with repository, JPA that I learned few years ago with online classes.
+
+Codes that used in the class is easy but really helpful to understand the process or the principle of Web Mvc pattern. Since I start to work, when I write codes, I barely think about why me or my coworkers following such patterns or structures. I worked like that for 2 years, and decide to study from beginning to become a developer, not a coder.
