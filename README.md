@@ -43,3 +43,8 @@ Is is a recommended way. This is because it can be forced not to create an insta
    I'm using jsp in my office. jsp - controller - service - mapper(mybatis) - database. So Im now reviewing the basic pattern of MVC model with repository, JPA that I learned few years ago with online classes.
 
 Codes that used in the class is easy but really helpful to understand the process or the principle of Web Mvc pattern. Since I start to work, when I write codes, I barely think about why me or my coworkers following such patterns or structures. I worked like that for 2 years, and decide to study from beginning to become a developer, not a coder.
+
+
+2023-09-07
+At the office.
+When I use @Transactional, if I want to rollback for all the exeptions, I sould add the option (rollbackFor = Exception.class). If dont put this option, spring's default option is UnCheckedException and Error(rollbackFor={RuntimeException.class, Error.class}). 
