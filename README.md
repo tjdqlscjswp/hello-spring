@@ -5,6 +5,8 @@ practice for springboot
 Uploaded my project to practice Spring boot.
 Today I learned about testing code with jUnit.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 2023-07-17
 1. Continueing practice test in Spring boot.
@@ -38,11 +40,14 @@ Is is a recommended way. This is because it can be forced not to create an insta
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 2023-07-20
 1. Review of Web MVC sturcture
    I'm using jsp in my office. jsp - controller - service - mapper(mybatis) - database. So Im now reviewing the basic pattern of MVC model with repository, JPA that I learned few years ago with online classes.
 
 Codes that used in the class is easy but really helpful to understand the process or the principle of Web Mvc pattern. Since I start to work, when I write codes, I barely think about why me or my coworkers following such patterns or structures. I worked like that for 2 years, and decide to study from beginning to become a developer, not a coder.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 2023-09-07
