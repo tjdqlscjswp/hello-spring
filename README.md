@@ -64,3 +64,7 @@ Javascript
 About async, promise, await etc..
 https://springfall.cc/article/2022-11/easy-promise-async-await
 
+Synchronous -> Code runs in a particular sequence of instructions given in the program. It waits until the previous work ends. Each instructions waits for the previous instruction to complete its execution.
+Asynchronous -> Asynchronous code execution allows to excution next instructions immediately and doesn't block the flow because of previous instructions.
+
+
