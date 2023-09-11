@@ -53,3 +53,10 @@ Codes that used in the class is easy but really helpful to understand the proces
 2023-09-07
 At the office.
 When I use @Transactional, if I want to rollback for all the exeptions, I sould add the option (rollbackFor = Exception.class). If dont put this option, spring's default option is UnCheckedException and Error(rollbackFor={RuntimeException.class, Error.class}). 
+
+
+2023-09-11
+Javascript
+About async, promise, await etc..
+https://springfall.cc/article/2022-11/easy-promise-async-await
+
