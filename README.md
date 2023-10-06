@@ -68,3 +68,13 @@ Synchronous -> Code runs in a particular sequence of instructions given in the p
 Asynchronous -> Asynchronous code execution allows to excution next instructions immediately and doesn't block the flow because of previous instructions.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2023-10-06
+Docker
+
+How to configure Docker container network range.
+
+One of my client required me to change the network range of docker container of our sofware solution. Software installed and runs in internal server network so users can access to the software by VPN. He said the VPN network range conflicts with the docker network range so it need to be changed.
+
